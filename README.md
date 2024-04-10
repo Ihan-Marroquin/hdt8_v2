@@ -1,4 +1,4 @@
-# Sistema de Atención de Emergencias Hospitalarias
+# Sistema de Atención de Pacientes en Emergencias v2
 
 ## Autor
 Ihan Marroquin - Carné 23108
